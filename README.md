@@ -23,7 +23,7 @@ Don’t feel like reading? No worries, you can check out free videos instead.
 
 ## How to be a Front-end developer
 
-- [Before Start](https://github.com/mhasan320/frontend-developer-roadmap/edit/main/README.md#BeforeStart)
+- [[Before Start](https://github.com/mhasan320/frontend-developer-roadmap/edit/main/README.md#BeforeStart)](https://github.com/mhasan320/frontend-developer-roadmap/blob/main/README.md#before-start)
 - Learn Basics (HTML, CSS, JavaScript)
 - HTML
 - CSS
