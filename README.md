@@ -24,9 +24,9 @@ Don’t feel like reading? No worries, you can check out free videos instead.
 ## How to be a Front-end developer
 
 - [Before Start](#before-start)
-- Learn Basics (HTML, CSS, JavaScript)
-- HTML
-- CSS
+- [Learn Basics (HTML, CSS, JavaScript)](learn-basicshtml-css-javascript)
+- [HTML](1-htm)
+- [CSS](2css)
 - JavaScript
 - Learn Advanceds (Frameworks and Libraries)
 - React
