@@ -1,8 +1,28 @@
-# frontend-developer-roadmap
 
-In this modern world in 2024, with the help of AI, you can learn anything, anytime, anywhere. But as a beginner you need a guideline to be a successful front-end developer. Hopefully, this guideline will help you a lot to be a front-end developer.
+## Before Start 
+You can skip this but if you want to be a passionate and one of the best front-end developer I will suggest you, you need to follow/learn this things first: 
 
-## What is frontend development
+Learn at-least basics one of this programming language. I suggest to learn C language.
 
-A front-end developer is responsible for creating the visual aspects of a website or web application that users interact with directly. This includes designing layouts, crafting user interfaces, and ensuring a smooth user experience. Key technologies involved are HTML, CSS, and JavaScript.
+#### 1. C 
+The C programming language is a general-purpose, low-level language developed in the early 1970s by Dennis Ritchie at Bell Labs. Known for its efficiency and portability, C is widely used in system programming, such as operating systems, embedded systems, and performance-critical applications. It features a simple syntax with control structures like loops and conditionals, and it provides direct memory access through pointers. C programs are compiled into machine code, making them fast and efficient. Here's a simple "Hello, World!" example:
 
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0
+}
+```
+##### Basics of C programming
+- [Learn C programming by programiz](https://www.programiz.com/c-programming)
+- [The C Programming Handbook for Beginners by FreeCodeCamp](https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/)
+
+##### Videos
+- [C Programming Tutorial for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- [C Programming Full Course for free by Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+
+2. C++
+3. Paython 
+4. Java
