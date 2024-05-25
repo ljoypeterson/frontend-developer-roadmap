@@ -115,3 +115,47 @@ public class HelloWorld {
 ##### Videos:
 - [Intro to Java Programming - Course for Absolute Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=GoXwIVyNvX0)
 - [Java programs FreeCodeCamp Updated version](https://www.youtube.com/watch?v=A74TOX803D0)
+  
+
+## Learn Basics(HTML, CSS, JavaScript)
+
+Hopefully, Now you know the basics of programming, Now you can jump into learning the Basics of Front-end development. Learning HTML, CSS, and JavaScript is mandatory for a Front-end developer. So stay focused and learn step by step of HTML, CSS & JavaScript.
+
+#### 1. HTML 
+
+HTML (HyperText Markup Language) forms web pages using elements, tags, and attributes. Semantic HTML organizes content meaningfully, enhancing accessibility and SEO. Key elements include headings, paragraphs, lists, links, images, and forms. Practicing HTML involves creating basic web pages to solidify comprehension. Understanding HTML's structure, semantics, and common elements is foundational for web development.
+
+- [Learn HTML by w3Schools](https://www.w3schools.com/html/) - HTML, HTML Froms, HTML media, HTML Graphics, HTML APIs
+- [HTML For Beginners The Easy Way: Start Learning HTML Today](https://html.com/)
+- [Learn HTML Free Online by Codecademy](https://www.codecademy.com/learn/learn-html) - Learn HTML with Online Code Editor
+
+Don’t feel like reading? No worries, Check out free videos:
+
+- [HTML Tutorials for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [HTML Tutorials for Beginners by Net Ninja](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
+- [Learn HTML with 1 hour by Bro Code](https://www.youtube.com/watch?v=HD13eq_Pmp8)
+
+#### 2.CSS 
+CSS (Cascading Style Sheets) is a styling language for web development. It controls the appearance of HTML elements by specifying their presentation, layout, and design. CSS enhances user experience by adding colors, fonts, spacing, and responsiveness to web pages. It separates content from design, enabling consistent styling across multiple pages. Understanding CSS is crucial for creating visually appealing and user-friendly websites.
+
+- [CSS tutorials by w3schools](https://www.w3schools.com/css/) - CSS Advanced, CSS Grid, CSS Responsive, CSS Examples, CSS References
+- [Learn CSS with Web.dev](https://web.dev/learn/css)
+- [Learn CSS with Codecademy](https://www.codecademy.com/learn/learn-css)
+- [Learn HTML & CSS online](https://learnhtmlcss.online/)
+
+#### Videos
+- [CSS Crash Cource by Traversy Media](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [CSS Tutorial for beginners by Net Ninja](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+- [CSS Tutorials by FreeCodeCamp](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=4s) 
+
+
+#### Follow these websites to update your skills: 
+
+- [CSS Tips & Tricks](https://css-tricks.com/) - Learn Different types tecniques of HTML and CSS
+- [Codepen](https://codepen.io/) - Practice code and share on online
+
+
+#### HTML & CSS Crash Cource: 
+
+- [HTML & CSS Crash Cource](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+
