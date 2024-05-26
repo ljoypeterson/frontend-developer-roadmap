@@ -27,7 +27,7 @@ Don’t feel like reading? No worries, you can check out free videos instead.
 - [Learn Basics (HTML, CSS, JavaScript)](#learn-basicshtml-css-javascript)
 - [HTML](#1-html)
 - [CSS](#2css)
-- JavaScript
+- [JavaScript](#javascript)
 - Learn Advanceds (Frameworks and Libraries)
 - React
 - Angular
@@ -170,11 +170,49 @@ Take some idea about CSS Preprocessor.
 
 #### Follow these websites to update your skills and Practice: 
 
-- [CSS Tips & Tricks](https://css-tricks.com/) - Learn Different types tecniques of HTML and CSS
+- [CSS Tips & Tricks](https://css-tricks.com/) - Learn Different types techniques of HTML and CSS
 - [Codepen](https://codepen.io/) - Practice code and share online
 
 
-#### HTML & CSS Crash Cource: 
+#### HTML & CSS Crash Course: 
 
 - [HTML & CSS Crash Cource](https://www.youtube.com/watch?v=D-h8L5hgW-w)
 
+#### 3. JavaScript
+
+JavaScript is a versatile, high-level programming language used primarily for web development. It enables dynamic and interactive web pages through client-side scripting. Key features include dynamic typing, event-driven programming, and first-class functions. JavaScript is also used server-side via Node.js, and for mobile and desktop app development. Its widespread use and robust ecosystem make it essential for modern web and application development.
+
+- [Learn Javascript with Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - Learn how to use JavaScript
+- [Javascript Tutorial by w3Schools](https://www.w3schools.com/js/)
+- [Learn Javascript Online](https://learnjavascript.online/) - The easiest way to  learn  &  practice  modern JavaScript
+- [Modern Javascript Tutorials](https://javascript.info/)
+
+#### Videos
+- [Javascript Tutorial by Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+- [Learn Javascripts - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Modern Javascript Tutorials by Net Ninja](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
+- [Object Oriented Programming in Javascript by mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+- [Complete Javascript Tutorial by The Coding Classroom](https://www.youtube.com/watch?v=1uYQRG5csT8&list=PLOmL3sL-afbRVTvedkIrQcDwg2UY0JGTF)
+
+#### Resources
+- [MDN Web docs](https://developer.mozilla.org/en-US/) - Try to follow this website to learn new things about javascript
+- [StackOverflow](https://stackoverflow.com/) - Your most important friend to learn JavaScript
+
+#### Books
+- [Eloquent Javascript](https://eloquentjavascript.net/) - Free
+- [Learning JavaScript Design Patterns by Addy Osmani](https://books.google.com.bd/books?id=L46fX62D5qYC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) - Free pdf and Premium Download
+- JavaScript: The Good Parts by Douglas Crockford - Premium 
+
+
+#### Practice
+
+"The more you practice the more you become better"
+
+- [Javascript Challenges by edabit](https://edabit.com/challenges/javascript)
+- [Legacy JavaScript Algorithms and Data Structures by FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Problem-solving with Javascript into jschallenger](https://www.jschallenger.com/)
+
+#### Create Example Projects with JavaScript
+
+- [30 Best JavaScript Project Ideas](https://www.guvi.in/blog/best-javascript-project-ideas/)
+- [40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
