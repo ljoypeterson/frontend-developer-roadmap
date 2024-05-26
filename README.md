@@ -148,11 +148,30 @@ CSS (Cascading Style Sheets) is a styling language for web development. It contr
 - [CSS Tutorial for beginners by Net Ninja](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
 - [CSS Tutorials by FreeCodeCamp](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=4s) 
 
+#### Library and Frameworks
+CSS libraries and frameworks are tools that help streamline the process of designing and implementing web interfaces. They offer pre-defined styles, components, and utilities that can significantly reduce development time and ensure consistency across web projects.
 
-#### Follow these websites to update your skills: 
+Learn at least one of them to do quicky development process. Bootstrap and TailwindCss are the most popular frameworks. I suggest learning **TailwindCss** because now it is a very popular and most used CSS framework.
+
+- [Bootstrap](https://getbootstrap.com/)
+- [TailwindCss](https://tailwindcss.com/)
+- [Materializecss](https://materializecss.com/)
+- [Foundation](https://get.foundation/)
+- [Bulma](https://bulma.io/)
+
+#### CSS Preprocessor
+CSS preprocessors are tools that extend the capabilities of CSS by adding features such as variables, nesting, mixins, and functions, which make CSS more maintainable and easier to write. Here’s an overview of some popular CSS preprocessors:
+
+Take some idea about CSS Preprocessor.
+
+- [SASS (Syntactically Awesome Stylesheets)](https://sass-lang.com/)
+- [LESS (Leaner Style Sheets)](https://lesscss.org/)
+- [Stylus](https://stylus-lang.com/)
+
+#### Follow these websites to update your skills and Practice: 
 
 - [CSS Tips & Tricks](https://css-tricks.com/) - Learn Different types tecniques of HTML and CSS
-- [Codepen](https://codepen.io/) - Practice code and share on online
+- [Codepen](https://codepen.io/) - Practice code and share online
 
 
 #### HTML & CSS Crash Cource: 
