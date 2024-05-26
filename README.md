@@ -27,7 +27,7 @@ Don’t feel like reading? No worries, you can check out free videos instead.
 - [Learn Basics (HTML, CSS, JavaScript)](#learn-basicshtml-css-javascript)
 - [HTML](#1-html)
 - [CSS](#2css)
-- [JavaScript](#javascript)
+- [JavaScript](#3-javascript)
 - Learn Advanceds (Frameworks and Libraries)
 - React
 - Angular
