@@ -1,7 +1,8 @@
 
 # Front-end Developer Roadmap
 
-In this modern world in 2024, with the help of AI, you can learn anything, anytime, anywhere. But as a beginner you need a guideline to be a successful front-end developer. Hopefully, this guideline will help you a lot to be a front-end developer.
+In this modern world in 2024, with the help of AI, you can learn anything, anytime, anywhere. But as a beginner,  you need guidelines to be a successful front-end developer. 
+Hopefully, these guidelines will help become a front-end developer.
 
 
 
@@ -10,13 +11,13 @@ In this modern world in 2024, with the help of AI, you can learn anything, anyti
 
 A front-end developer is responsible for creating the visual aspects of a website or web application that users interact with directly. This includes designing layouts, crafting user interfaces, and ensuring a smooth user experience. Key technologies involved are HTML, CSS, and JavaScript.
 
-Want to know more about front-end development follow the links below (Optional): 
+Want to know more about front-end development, follow the links below: (Optional)
 
 - [What is front-end development by w3schools](https://www.w3schools.com/whatis/whatis_frontenddev.asp)
 - [What is Front End Development by FreeCodeCamp](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
 - [What is Frontend Development by roadmap](https://roadmap.sh/frontend)
 
-Don’t feel like reading? No worries, you can check out free videos instead.
+Don’t feel like reading? No worries, you can check out the free videos instead.
 
 - [Frontend web development - a complete overview by SuperSimpleDev](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 - [What is front-end developer by IamTimCorey](https://www.youtube.com/watch?v=DUvFLhTWOVI&t=51s)
@@ -39,13 +40,14 @@ Don’t feel like reading? No worries, you can check out free videos instead.
 - Building Portfolio
 - Continues learning and Networking
 
-## Before Start 
-You can skip this but if you want to be a passionate and one of the best front-end developers I will suggest you, you need to follow/learn this thing first: 
+## Before Starting 
+You can skip this, but if you want to be one of the best front-end developers that has passion, follow and learn this first suggestion:
 
-Learn at-least basics of one of these programming languages. I suggest learning C language.
+*Learn the basics of at least one programming languages. I suggest learning the C language.*
 
 #### 1. C 
-The C programming language is a general-purpose, low-level language developed in the early 1970s by Dennis Ritchie at Bell Labs. Known for its efficiency and portability, C is widely used in system programming, such as operating systems, embedded systems, and performance-critical applications. It features a simple syntax with control structures like loops and conditionals, and it provides direct memory access through pointers. C programs are compiled into machine code, making them fast and efficient. Here's a simple "Hello, World!" example:
+The C programming language is a general-purpose, low-level language developed in the early 1970s by Dennis Ritchie at Bell Labs. Known for its efficiency and portability, C is widely used in system programming.  This includes operating systems, embedded systems, and performance-critical applications. It features a simple syntax with control structures like loops and conditionals, and it provides direct memory access through pointers. C programs are compiled into machine code, making them fast and efficient. 
+Here's a simple "Hello, World!" example:
 
 ```c
 #include <stdio.h>
@@ -83,7 +85,8 @@ int main() {
 - [C++ Programming by Derek Banas](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
 #### 3. Python 
-Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. Created by Guido van Rossum and released in 1991, Python emphasizes ease of learning and use. Its features include dynamic typing, a large standard library, cross-platform compatibility, and support for both object-oriented and functional programming paradigms. Python is widely used in web development, data science, machine learning, automation, and more. It's characterized by its clean and concise syntax, making it a popular choice for beginners and experienced developers alike. "Hello, world!" example:
+Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. Created by Guido van Rossum and released in 1991, Python emphasizes ease of learning and use. It's features include dynamic typing, a large standard library, cross-platform compatibility, and support for both object-oriented and functional programming paradigms. Python is widely used in web development, data science, machine learning, automation, and more. It's characterized by its clean and concise syntax, making it a popular choice for beginners and experienced developers alike. 
+"Hello, world!" example:
 
 ``` python
 print("Hello, World!")
@@ -119,7 +122,7 @@ public class HelloWorld {
 
 ## Learn Basics(HTML, CSS, JavaScript)
 
-Hopefully, Now you know the basics of programming, Now you can jump into learning the Basics of Front-end development. Learning HTML, CSS, and JavaScript is mandatory for a Front-end developer. So stay focused and learn step by step of HTML, CSS & JavaScript.
+Hopefully, now that you know the basics of programming, you can jump into learning the Basics of Front-end development. Learning HTML, CSS, and JavaScript is mandatory for a Front-end developer. So stay focused and learn step by step of HTML, CSS & JavaScript.
 
 #### 1. HTML 
 
@@ -151,7 +154,7 @@ CSS (Cascading Style Sheets) is a styling language for web development. It contr
 #### Library and Frameworks
 CSS libraries and frameworks are tools that help streamline the process of designing and implementing web interfaces. They offer pre-defined styles, components, and utilities that can significantly reduce development time and ensure consistency across web projects.
 
-Learn at least one of them to do quicky development process. Bootstrap and TailwindCss are the most popular frameworks. I suggest learning **TailwindCss** because now it is a very popular and most used CSS framework.
+Learn at least one of them to do quicky development process. Bootstrap and TailwindCss are the most popular frameworks. I suggest learning **TailwindCss** because it is a very popular and most used CSS framework right now.
 
 - [Bootstrap](https://getbootstrap.com/)
 - [TailwindCss](https://tailwindcss.com/)
